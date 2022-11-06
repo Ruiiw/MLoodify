@@ -1,0 +1,128 @@
+/*
+body {
+  background: rgb(2,0,36);
+  background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(21,21,187,1) 2%, rgba(10,124,224,1) 17%, rgba(0,212,255,1) 100%);
+}*/
+/*
+body {
+  background-color: #00AFC1;
+}*/
+
+body {
+  background: rgb(224,10,10);
+  background: linear-gradient(45deg, rgba(224,10,10,1) 17%, rgba(255,0,217,1) 100%);
+}
+
+.form-group {
+  margin: 15px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.main-left {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+
+img {
+  width: 85%;
+  height: auto
+}
+
+.main-right {
+  width: 50%;
+  float: right;
+}
+
+.caption {
+  margin-right: 15px;
+}
+
+.field {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.min-word, .max-word {
+  margin: 0 1%;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.choices {
+  display: block;
+}
+
+p, label {
+  color: white;
+}
+
+.blurb {
+  margin-top: 20px;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 24px;
+}
+
+.playlist {
+  display: inline;
+}
+
+.emo-row {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.playlist_text {
+  margin-top: 0px;
+}
+
+.emo-btns {
+  display: block;
+}
+
+.btn-secondary {
+  /*background-color: #006778;*/
+  background-color: black;
+}
+
+
+.submit-btn {
+  display: block;
+  text-align: center;
+}
+
+.navbar-brand, .nav-link {
+  color: #F5F5F5;
+}
+
+.btn {
+  margin: 0 20px;
+  height: 50%;
+  font-size: 24px;
+}
+
+.add-options {
+  font-size: 18px;
+}
+
+label {
+  font-size: 24px;
+}
+
+form {
+  padding: 0 25px;
+}
+
+input {
+  font-size: 18px;
+}
+
+.navbar {
+  background-color: #0093AB;
+}
+
+[type='radio'] {
+  display: none;
+}
